@@ -1,1 +1,1 @@
-My sorting algorithm readme
+# Solution to tasks on Sorting algorithms
